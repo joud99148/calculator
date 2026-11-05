@@ -23,6 +23,13 @@ int main() {
     }
     else {cout << "wrong inputs" << endl;
         }
+        int modulo;
+        int a , b ;
+        cout << "enter two numbers :" << endl;
+        cin >> a ;
+        cin >> b ;
+        modulo = a % b;
+        cout << modulo ;
     return 0;
 }
 // testing my pull and push
