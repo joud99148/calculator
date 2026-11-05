@@ -1,0 +1,3 @@
+C:/Users/MANGO/Desktop/c++/c++/build-mingw/CMakeFiles/Calculator.dir
+C:/Users/MANGO/Desktop/c++/c++/build-mingw/CMakeFiles/edit_cache.dir
+C:/Users/MANGO/Desktop/c++/c++/build-mingw/CMakeFiles/rebuild_cache.dir
